@@ -44,6 +44,9 @@ b{
     #deskimg{
         display: none;
     }
+    #phone{
+        display: block;
+    }
     #headmobile{
     display:block;
     width: 90%;
@@ -71,9 +74,9 @@ b{
     opacity: 0.4;
     top: -1;
     left: -6;
-    height: 16.2rem;
+    height: 15rem;
     width:90%;
     margin-left: 20px;
-    margin-top: -156%;
+    margin-top: -164%;
 }
 }
