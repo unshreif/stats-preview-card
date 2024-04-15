@@ -42,6 +42,7 @@ b{
     main{
         display: flex;
         flex-direction: column;
+margin-right:5px;
     }
     #deskimg{
         display: none;
